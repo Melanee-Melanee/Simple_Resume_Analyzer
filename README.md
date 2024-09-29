@@ -12,7 +12,7 @@ This notebook helps recruiters and hiring managers to detect the best resumes ve
 
 3- Replace your custom keywords in: ``` keywords ```
 
-2- Run the cell
+4- Run the cell
 
 ## Output
 In the output you will see the sorted resumes based on the most total keywords and also the name of resumes, eg: Resume 1.pdf, Resume 2.pdf, Resume 3.pdf and so on.
