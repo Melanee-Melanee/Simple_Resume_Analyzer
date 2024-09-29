@@ -6,7 +6,7 @@ This notebook helps recruiters and hiring managers to detect the best resumes ve
 
 ## Usage
 
-1- ``` !pip install PyPDF2 ``` 
+1- Install PyPDF2: ``` !pip install PyPDF2 ```
 
 2- Move all the resumes in a same directory  and define your directory path in: ``` directory_path ```
 
