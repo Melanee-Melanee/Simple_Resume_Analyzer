@@ -1,7 +1,7 @@
 # Simple_Resume_Analyzer
 
 
-This notebook helps recruiters and hiring managers to identify the best-matched resumes very quickly and accelerate finding the top talent. This code can read a huge amount of PDF files (resumes) and sort them based on the most related keywords.
+This notebook helps recruiters and hiring managers to identify the most-matched resumes very quickly and accelerate finding the top talent. This code can read a huge amount of PDF files (resumes) and sort them based on the most related keywords.
 
 
 ## Usage
