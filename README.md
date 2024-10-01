@@ -15,7 +15,7 @@ This notebook helps recruiters and hiring managers to identify the best resumes 
 4- Run the cell
 
 ## Output
-In the output you will see the sorted resumes based on the most total keywords and also the name of resumes, eg: Resume_1.pdf, Resume_2.pdf, Resume_3.pdf and so on.
+In the output you will see the sorted resumes based on the most related keywords and also the name of resumes, eg: Resume_1.pdf, Resume_2.pdf, Resume_3.pdf and so on.
 
 ![Melanee resume analyzer](https://github.com/user-attachments/assets/4346c92a-8b89-45e7-b92a-773a82d91d25)
 
